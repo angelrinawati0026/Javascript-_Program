@@ -46,5 +46,5 @@ for (let i = 0; i < jsonData.length; i++) {
   }
 }
 
-console.log("Jumlah quantity dari productCode",itemCode,"is",total);
+console.log("Jumlah quantity dari productCode",itemCode,"adalah",total);
   
